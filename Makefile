@@ -1,2 +1,2 @@
 all:
-cc -o tictactoe tictactoe.c
+  cc -o tictactoe tictaktoethingy.c
