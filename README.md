@@ -1,5 +1,5 @@
 # Tic Tac Toe
-A simple terminal Tic Tac toe game
+A simple terminal Tic Tac Toe game
 
 # How to install
 `make` 
