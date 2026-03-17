@@ -13,6 +13,7 @@ A simple terminal Tic Tac Toe game
 it will output a executable named tictactoe which you can execute
 
 ## How to play
+![tic tac toe gameplay and execution](https://github.com/user-attachments/assets/5fd250a2-f553-4fdb-898f-c4233a7c019f)
 To immediately run the executable, type ./tictactoe in your terminal (if you are in the tictactoe directory) and hit enter. It will ask you where you want to place your piece. You write this in a cordinate like system. X first Y second for example `0 1` will place it on the first line second row. First row will always be 0 and last row will always be 2. To do your move you just press enter. It will then print out how the board looks. 1 is player 1s pieces and 2 is player 2s pieces.
 
 ## What is missing/What too add
